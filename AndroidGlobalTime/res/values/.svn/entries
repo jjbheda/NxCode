@@ -1,0 +1,40 @@
+8
+
+dir
+13
+https://apps-for-android.googlecode.com/svn/trunk/AndroidGlobalTime/res/values
+https://apps-for-android.googlecode.com/svn
+
+
+
+2008-08-23T01:30:57.498222Z
+11
+mjoshi@google.com
+
+
+svn:special svn:externals svn:needs-lock
+
+styles.xml
+file
+
+
+
+
+2008-08-23T01:26:43.000000Z
+c10cf52915d100e054fb8d2f7aeec181
+2008-08-23T01:30:57.498222Z
+11
+mjoshi@google.com
+
+strings.xml
+file
+
+
+
+
+2008-08-23T01:26:43.000000Z
+8de26ceba5e4d90aab717b7ac605d215
+2008-08-23T01:30:57.498222Z
+11
+mjoshi@google.com
+
